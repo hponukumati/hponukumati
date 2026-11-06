@@ -90,4 +90,5 @@ More to come. 🚀
 
 ---
 
-🎓 **Currently:** CS @ San Jose State University · Open to internships & new grad roles
+🎓 **Currently:** MS Software Engineering, SJSU '25 · Open to Software Engineer roles — full-stack, AI / ML · Portfolio: [https://harshaponukumati.vercel.app](https://harshaponukumati.vercel.app)
+
