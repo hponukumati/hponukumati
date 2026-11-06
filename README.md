@@ -26,6 +26,8 @@ Full-stack developer who builds across the stack and across languages — JavaSc
 
 **[StatusCheck](https://github.com/hponukumati/StatusCheck)** — Python job application tracker that reads your Gmail via OAuth2. Automatically detects application confirmations, interview invites, and rejections, then tracks status changes in a CSV. Designed to run nightly via cron with a daily digest email. Built with Google Cloud OAuth, modular parsers, dry-run mode, and configurable search windows.
 
+**[Speechify](https://github.com/hponukumati/speechify)** — Offline speech-to-text with faster-whisper and a 4-layer correction pipeline for medical terms. Built to run locally, not as a demo wrapper around an API.
+
 **[movie-theatre-website](https://github.com/hponukumati/movie-theatre-website)** — Full-stack movie theatre booking platform built with a 4-person team. 253 commits, agile sprints, XP core values, full deployment + component architecture diagrams. The kind of project that looks like real work because it was.
 
 **[to-do-app](https://github.com/hponukumati/to-do-app)** — Secure task manager with JWT auth, per-user todo lists, and full CRUD. React + Tailwind + DaisyUI frontend, Node/Express backend, MongoDB. Built to be actually secure, not just functional.
@@ -38,6 +40,7 @@ Full-stack developer who builds across the stack and across languages — JavaSc
 |---|---|---|
 | [findex](https://github.com/hponukumati/findex) | Fast file search CLI — index once, query instantly | Go, SQLite, fzf |
 | [StatusCheck](https://github.com/hponukumati/StatusCheck) | Gmail job application tracker with cron + daily digest | Python, Gmail API, OAuth2 |
+| [Speechify](https://github.com/hponukumati/speechify) | Offline speech-to-text, faster-whisper + medical-term correction | Python, faster-whisper |
 | [movie-theatre-website](https://github.com/hponukumati/movie-theatre-website) | Team booking platform — 253 commits, sprint process | Node.js, React, MongoDB |
 | [to-do-app](https://github.com/hponukumati/to-do-app) | Secure full-stack todo app with JWT auth | React, Node.js, MongoDB |
 | [asterisk](https://github.com/hponukumati/asterisk) | Full-stack "things to do when bored" app | Node.js, React |
